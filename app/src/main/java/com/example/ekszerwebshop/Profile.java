@@ -143,6 +143,7 @@ public class Profile extends AppCompatActivity {
     }
 
     public void deleteProfile(View view) {
+        FirebaseAuth.getInstance().signOut();
         ref.delete().addOnSuccessListener(success -> {
             currentUser.delete()
                     .addOnCompleteListener(new OnCompleteListener<Void>() {
