@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052619497212",
+    "project_id": "ekszerwebshop-ae22a",
+    "storage_bucket": "ekszerwebshop-ae22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052619497212:android:00e01e4cd5e7e2d7f74179",
+        "android_client_info": {
+          "package_name": "com.example.ekszerwebshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052619497212-1ce3jj8n3ooc0otrui278tdgu4mjs3pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekszerwebshop",
+            "certificate_hash": "6ce9b82b39fa6c64157b40260b215bc9e26f4b37"
+          }
+        },
+        {
+          "client_id": "1052619497212-0mmml2s63lakh9fgshf82vgc94guqic8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPSALLmNFFmnCQCa22w1MdM_cdPv1G_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052619497212-0mmml2s63lakh9fgshf82vgc94guqic8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

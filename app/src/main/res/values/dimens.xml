@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fieldMargin">20dp</dimen>
+    <dimen name="buttonMargin">40dp</dimen>
+    <dimen name="secondaryButtonMargin">10dp</dimen>
+    <dimen name="cardMargin">5dp</dimen>
+</resources>

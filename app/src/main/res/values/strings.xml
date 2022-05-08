@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Goldenhour</string>
+    <string name="email">Email</string>
+    <string name="signup">Regisztráció</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="username">Felhasználónév</string>
+    <string name="toCart">Kosárba</string>
+
+    <!--  RecyclerView  -->
+    <string name="productNamePlaceholder">Termék neve</string>
+    <string name="productPricePlaceholder">Termék ára</string>
+    <string name="cancel">Mégse</string>
+    <string name="ok">Ok</string>
+    <string name="new_uname">Új felhasználónév</string>
+    <string name="delete">Fiók törlése</string>
+
+    <string-array name="product_titles">
+        <item>COLETTE Malachite karkötő</item>
+        <item>LOUISE karkötő</item>
+        <item>AVRIL karkötő</item>
+        <item>ELISE fülbevaló</item>
+        <item>DOBBY fülbevaló</item>
+        <item>GIGI fülbevaló</item>
+        <item>SUZANNE fülbevaló</item>
+        <item>FELIS fülbevaló</item>
+        <item>NATE fülbevaló</item>
+        <item>PARIS fülbevaló</item>
+        <item>ROWENA nyaklánc</item>
+        <item>MARLENE nyaklánc</item>
+        <item>INES nyaklánc</item>
+        <item>INA nyaklánc</item>
+        <item>WILLOW nyaklánc</item>
+        <item>HERITAGE nyaklánc</item>
+        <item>MINETTE gyűrű</item>
+        <item>SIERRA gyűrű</item>
+        <item>CAPELLA gyűrű</item>
+        <item>PAISLEY gyűrű</item>
+    </string-array>
+
+    <string-array name="product_prices">
+        <item>7490 Ft</item>
+        <item>6990 Ft</item>
+        <item>6890 Ft</item>
+        <item>6490 Ft</item>
+        <item>6490 Ft</item>
+        <item>5990 Ft</item>
+        <item>5790 Ft</item>
+        <item>4990 Ft</item>
+        <item>5290 Ft</item>
+        <item>5890 Ft</item>
+        <item>7690 Ft</item>
+        <item>7990 Ft</item>
+        <item>6990 Ft</item>
+        <item>7290 Ft</item>
+        <item>8490 Ft</item>
+        <item>8290 Ft</item>
+        <item>6190 Ft</item>
+        <item>4990 Ft</item>
+        <item>5690 Ft</item>
+        <item>5290 Ft</item>
+    </string-array>
+
+    <array name="product_pictures">
+        <item>@drawable/bracelet1</item>
+        <item>@drawable/bracelet2</item>
+        <item>@drawable/bracelet3</item>
+        <item>@drawable/earring1</item>
+        <item>@drawable/earring2</item>
+        <item>@drawable/earring3</item>
+        <item>@drawable/earring4</item>
+        <item>@drawable/earring5</item>
+        <item>@drawable/earring6</item>
+        <item>@drawable/earring7</item>
+        <item>@drawable/necklace1</item>
+        <item>@drawable/necklace2</item>
+        <item>@drawable/necklace3</item>
+        <item>@drawable/necklace4</item>
+        <item>@drawable/necklace5</item>
+        <item>@drawable/necklace6</item>
+        <item>@drawable/ring1</item>
+        <item>@drawable/ring2</item>
+        <item>@drawable/ring3</item>
+        <item>@drawable/ring4</item>
+    </array>
+</resources>
